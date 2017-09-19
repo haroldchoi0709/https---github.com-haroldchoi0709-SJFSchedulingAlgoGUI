@@ -1,0 +1,10 @@
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\bin\Debug\6OPSYS_Modified.exe.config
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\bin\Debug\6OPSYS_Modified.exe
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\bin\Debug\6OPSYS_Modified.pdb
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\6OPSYS_Modified.csprojResolveAssemblyReference.cache
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\_6OPSYS_Modified.Form1.resources
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\_6OPSYS_Modified.Properties.Resources.resources
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\6OPSYS_Modified.csproj.GenerateResource.Cache
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\6OPSYS_Modified.exe
+c:\users\ericson\documents\visual studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\6OPSYS_Modified.pdb
+c:\Users\Ericson\Documents\Visual Studio 2015\Projects\6OPSYS_Modified\6OPSYS_Modified\obj\Debug\_6OPSYS_Modified.Display.resources
